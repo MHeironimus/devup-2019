@@ -35,7 +35,7 @@ npm run test-coverage
 
 ### Running Mutation Test Tool
 
-To run the mutation test tool, Striker, for an example project from the command line, go to that project's folder and enter the following command:
+To run the mutation test tool, [Striker](https://stryker-mutator.io/), for an example project from the command line, go to that project's folder and enter the following command:
 
 ```
 npm run test-mutation
